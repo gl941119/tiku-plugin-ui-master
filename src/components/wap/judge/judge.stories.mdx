@@ -1,0 +1,76 @@
+import { Meta, Props, Story, Preview } from '@storybook/addon-docs/blocks'
+import Judge from './index.vue'
+import { action } from "@storybook/addon-actions"
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import JudgeData from '@/mock/judge-mock'
+
+<Meta title="wap业务组件|判断题" component={Judge} decorators={[withKnobs({escapeHTML:false})]} />
+
+# 判断题
+
+<Props of={Judge} />
+
+判断题的默认展示样式，只传入题目数据对象即可
+
+<Preview>
+  <Story name="默认">
+    {{
+      components: { Judge },
+      props:{
+        dataSubject:{
+          default: object('dataSubject',JudgeData)
+        }
+      },
+      template: '<judge :dataSubject="dataSubject"></judge>',
+    }}
+  </Story>
+</Preview>
+
+自定义展示
+
+<Preview>
+  <Story name="自定义">
+    {{
+      components: { Judge },
+      props:{
+        dataRankSting:{
+          default: text('题目标题前显示序号','1.')
+        },
+        dataWidth:{
+          default: number('题目选项宽度，百分比单位',100)
+        },
+        controlShowTitle:{
+          default: boolean('是否显示标题',true)
+        },
+        controlShowStatus:{
+          default: boolean('是否显示顶部答题状态',true)
+        },
+        controlAnswered:{
+          default: boolean('状态：已作答还是未作答',false)
+        },
+        controlShowBottom:{
+          default: boolean('是否显示底部',false)
+        },
+        controlShowStyle:{
+          default: boolean('是否显示标题样式',true)
+        },        
+        controlShowScore:{
+          default: boolean('是否显示标题分数',true)
+        },
+        controlAutoPlay:{
+          default: boolean('改变音频播放时长后是否自动播放',true)
+        },
+        styleSetClass:{
+          default: text('题目根元素类名')
+        },
+        dataSubject:{
+          default: object('题目数据',JudgeData)
+        },
+      },
+      template: '<judge @choose="choose"  :dataSubject="dataSubject" :controlShowStatus="controlShowStatus" :dataWidth="dataWidth" :dataRankSting="dataRankSting" :controlShowTitle="controlShowTitle" :controlAnswered="controlAnswered" :controlShowBottom="controlShowBottom" :controlShowStyle="controlShowStyle" :controlShowScore="controlShowScore" :controlAutoPlay="controlAutoPlay" :styleSetClass="styleSetClass"></judge>',
+      methods:{
+        choose:action("choose")
+      }
+    }}
+  </Story>
+</Preview>

@@ -1,0 +1,76 @@
+import { Meta, Props, Story, Preview, Description } from '@storybook/addon-docs/blocks'
+import Fill from './index.vue'
+import { action } from "@storybook/addon-actions"
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import FillData from '@/mock/fill-mock'
+
+<Meta title="wap业务组件|填空题" component={Fill} decorators={[withKnobs({escapeHTML:false})]} />
+
+# 填空题
+
+<Props of={Fill} />
+
+填空题的默认展示样式，只传入题目数据对象即可
+
+<Preview>
+  <Story name="默认">
+    {{
+      components: { Fill },
+      props:{
+        dataSubject:{
+          default: object('dataSubject',FillData)
+        }
+      },
+      template: '<fill :dataSubject="dataSubject"></fill>',
+    }}
+  </Story>
+</Preview>
+
+自定义展示
+
+<Preview>
+  <Story name="自定义">
+    {{
+      components: { Fill },
+      props:{
+        dataRankSting:{
+          default: text('题目标题前显示序号','1.')
+        },
+        controlShowTitle:{
+          default: boolean('是否显示标题',true)
+        },
+        controlShowStatus:{
+          default: boolean('是否显示顶部答题状态',true)
+        },
+        controlAnswered:{
+          default: boolean('状态：已作答还是未作答',false)
+        },
+        controlShowRightAnswer:{
+          default: boolean('是否显示正确答案',false)
+        },
+        controlShowBottom:{
+          default: boolean('是否显示底部',false)
+        },
+        controlShowStyle:{
+          default: boolean('是否显示标题样式',true)
+        },        
+        controlShowScore:{
+          default: boolean('是否显示标题分数',true)
+        },
+        controlAutoPlay:{
+          default: boolean('改变音频播放时长后是否自动播放',true)
+        },
+        styleSetClass:{
+          default: text('题目根元素类名')
+        },
+        dataSubject:{
+          default: object('题目数据',FillData)
+        }
+      },
+      template: '<fill @choose="choose"  :dataSubject="dataSubject" :dataRankSting="dataRankSting" :controlShowStatus="controlShowStatus" :controlShowTitle="controlShowTitle" :controlAnswered="controlAnswered" :controlShowRightAnswer="controlShowRightAnswer" :controlShowBottom="controlShowBottom" :controlShowStyle="controlShowStyle" :controlShowScore="controlShowScore" :controlAutoPlay="controlAutoPlay" :styleSetClass="styleSetClass"></fill>',
+      methods:{
+        choose:action("choose")
+      }
+    }}
+  </Story>
+</Preview>

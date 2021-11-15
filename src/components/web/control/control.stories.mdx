@@ -1,0 +1,68 @@
+import { Meta, Props, Story, Preview, Description } from '@storybook/addon-docs/blocks'
+import control from './index.vue'
+import { action } from '@storybook/addon-actions'
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import SelectionData from '@/mock/select-mock'
+import groupData from '@/mock/group-item.json'
+
+<Meta title="web 业务组件|控制组件" component={control} decorators={[withKnobs({ escapeHTML: false })]} />
+
+# 控制按钮
+
+<Props of={control} />
+
+默认
+
+<Preview>
+  <Story name="默认">
+    {{
+      components: { control },
+      props: {
+        controlAnalysisStep: {
+          default: boolean('是否为解析状态', false),
+        },
+        dataCurrentId: {
+          default: text('当前选中id', '2795'),
+        },
+        styleClass: {
+          default: text('设置类名', ''),
+        },
+        dataSubject: {
+          default: object('控制组件数据源', SelectionData),
+        },
+      },
+      template:
+        '<control :dataSubject="dataSubject" :controlAnalysisStep="controlAnalysisStep" :dataCurrentId="dataCurrentId" :styleClass="styleClass"></control>',
+    }}
+  </Story>
+</Preview>
+
+自定义
+
+<Preview>
+  <Story name="自定义">
+    {{
+      components: { control },
+      props: {
+        controlExtraContent: {
+          default: boolean('是否显示额外的tip内容', false),
+        },
+        controlAnalysisStep: {
+          default: boolean('是否为解析状态', false),
+        },
+        dataCurrentId: {
+          default: text('当前选中id', '2795'),
+        },
+        styleClass: {
+          default: text('设置类名', ''),
+        },
+        dataSubject: {
+          default: object('控制组件数据源', groupData),
+        },
+      },
+      template: `<control :dataSubject="dataSubject" :controlAnalysisStep="controlAnalysisStep" :dataCurrentId="dataCurrentId" :styleClass="styleClass" :controlExtraContent="controlExtraContent">
+        5
+      </control>`,
+    }}
+  </Story>
+</Preview>

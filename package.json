@@ -1,0 +1,59 @@
+{
+  "name": "tiku-plugin-ui",
+  "version": "0.1.38",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "serve:web": "cross-env PAGE=web vue-cli-service serve",
+    "serve:h5": "cross-env PAGE=h5 vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lib": "vue-cli-service build --target lib src/entry.js",
+    "lib:watch": "vue-cli-service build --target lib --watch src/entry.js",
+    "lint": "vue-cli-service lint",
+    "lint:fix": "vue-cli-service lint --fix"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "main": "dist/tiku-plugin-ui.umd.js",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js, *.vue": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "core-js": "^2.6.5",
+    "cross-spawn": "^7.0.3",
+    "crossvent": "^1.5.5",
+    "qrcode": "^1.4.4",
+    "swiper": "^6.4.10",
+    "vconsole": "^3.4.0",
+    "vue": "^2.6.10",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.12.13",
+    "@babel/plugin-proposal-optional-chaining": "^7.12.13",
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-eslint": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "cross-env": "^7.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "postcss-plugin-px2rem": "^0.8.1",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

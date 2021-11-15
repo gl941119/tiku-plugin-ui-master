@@ -1,0 +1,80 @@
+import { Meta, Props, Story, Preview } from '@storybook/addon-docs/blocks'
+import { action } from "@storybook/addon-actions"
+import Selection from './index.vue'
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import SelectionData from '@/mock/select-mock'
+
+<Meta title="wap业务组件|选择题" component={Selection} decorators={[withKnobs({escapeHTML:false})]} />
+
+# 选择题
+
+<Props of={Selection} />
+
+
+选择题的默认展示样式，只传入题目数据对象即可
+
+<Preview>
+  <Story name="默认">
+    {{
+      components: { Selection },
+      props:{
+        dataSubject:{
+          default: object('dataSubject',SelectionData)
+        }
+      },
+      template: '<selection :dataSubject="dataSubject"></selection>',
+    }}
+  </Story>
+</Preview>
+
+选择题自定义展示
+
+<Preview>
+  <Story name="自定义展示">
+    {{
+      components: { Selection },
+      props:{
+        dataRankSting:{
+          default: text('题目标题前显示序号','1.')
+        },
+        dataWidth:{
+          default: number('题目选项宽度，百分比单位',100)
+        },
+        controlIsSingle:{
+          default: boolean('单选还是多选',true)
+        },
+       controlShowTitle:{
+          default: boolean('是否显示标题',true)
+        },
+        controlAnswered:{
+          default: boolean('状态：已作答还是未作答',false)
+        },
+        controlShowStatus:{
+          default: boolean('是否显示顶部答题状态',true)
+        },
+        controlShowBottom:{
+          default: boolean('是否显示底部',false)
+        },
+        controlShowStyle:{
+          default: boolean('是否显示标题样式',true)
+        },        
+        controlShowScore:{
+          default: boolean('是否显示标题分数',true)
+        },
+        controlAutoPlay:{
+          default: boolean('改变音频播放时长后是否自动播放',true)
+        },
+        styleSetClass:{
+          default: text('题目根元素类名')
+        },
+        dataSubject:{
+          default: object('题目数据',SelectionData)
+        }
+      },
+      template: '<selection @choose="choose"  :dataSubject="dataSubject" :dataWidth="dataWidth" :dataRankSting="dataRankSting" :controlIsSingle="controlIsSingle" :controlShowTitle="controlShowTitle" :controlAnswered="controlAnswered" :controlShowBottom="controlShowBottom" :controlShowStyle="controlShowStyle" :controlShowScore="controlShowScore" :controlAutoPlay="controlAutoPlay" :controlShowStatus="controlShowStatus" :styleSetClass="styleSetClass"></selection>',
+      methods:{
+        choose:action("choose")
+      }
+    }}
+  </Story>
+</Preview>

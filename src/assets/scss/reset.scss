@@ -1,0 +1,76 @@
+body {
+  font-size: 14px;
+  line-height: 1.41;
+  font-family: PingFang SC, Hiragino Sans GB, Microsoft YaHei, Heiti SC, WenQuanYi Micro Hei, Helvetica, Tahoma, Arial;
+  color: #303133;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div {
+  vertical-align: middle;
+}
+
+img {
+  user-select: none;
+  vertical-align: middle;
+  border: none;
+  height: auto;
+
+  &[src=""],
+  &:not([src]) {
+    opacity: 0;
+  }
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #202020;
+}
+
+select {
+  outline: none;
+}
+
+input {
+  outline: none;
+  border: 1px #666 solid;
+}
+
+#nuxt-loading {
+  visibility: visible !important;
+  opacity: 1 !important;
+  animation: none !important;
+}
+
+input,
+textarea,
+select,
+button {
+  font: inherit;
+}

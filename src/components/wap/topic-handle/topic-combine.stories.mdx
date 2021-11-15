@@ -1,0 +1,118 @@
+import { Meta, Props, Story, Preview } from '@storybook/addon-docs/blocks'
+import { action } from '@storybook/addon-actions'
+import topicCombine from './index.vue'
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import allSourceMock from '@/mock/all-source-mock'
+
+<Meta title="wap业务组件|切换题目" component={topicCombine} decorators={[withKnobs({ escapeHTML: false })]} />
+
+# 题目列表
+
+<Props of={topicCombine} />
+
+课堂预习/课堂测试
+
+<Preview>
+  <Story name="课堂预习/课堂测试">
+    {{
+      components: { topicCombine },
+      props: {
+        controlCurrentTopicIndex: { default: number('控制显示当前题目', 0) },
+        controlTouchMoveDis: { default: number('移动多少距离才触发切换事件', 50) },
+        controlAnswered: { default: boolean('未作答、已作答标志，true为已作答', false) },
+        controlIsGroup: { default: boolean('是否显示组合题的小题题目前面的序号', true) },
+        controlShowSubTitle: { default: boolean('(wap组合题中)是否显示子题目', true) },
+        controlShowPictureAnswer: { default: boolean('是否显示拍照作答按键', true) },
+        controlTopicRequest: { default: boolean('是否显示题目要求', false) },
+        controlShowBottom: { default: boolean('是否显示底部解析', false) },
+        controlShowRightAnswer: { default: boolean('控制直接显示正确答案，优先级高于controlAnswered', false) },
+        dataSource: { default: array('题目数据', allSourceMock) },
+      },
+      template: `<topicCombine 
+        :dataSource="dataSource" 
+        :controlIsGroup="controlIsGroup" 
+        :controlCurrentTopicIndex="controlCurrentTopicIndex" 
+        :controlShowSubTitle="controlShowSubTitle"
+        :controlShowPictureAnswer="controlShowPictureAnswer"
+        :controlTopicRequest="controlTopicRequest"
+        :controlShowRightAnswer="controlShowRightAnswer"
+        :controlShowBottom="controlShowBottom"
+        :controlAnswered="controlAnswered"
+        :controlTouchMoveDis="controlTouchMoveDis"
+      ></topicCombine>`,
+    }}
+  </Story>
+</Preview>
+
+课堂预习/课堂测试 --- 解析状态
+
+<Preview>
+  <Story name="题目解析">
+    {{
+      components: { topicCombine },
+      props: {
+        controlCurrentTopicIndex: { default: number('控制显示当前题目', 0) },
+        controlAnswered: { default: boolean('未作答、已作答标志，true为已作答', true) },
+        controlIsGroup: { default: boolean('是否显示组合题的小题题目前面的序号', true) },
+        controlShowSubTitle: { default: boolean('(wap组合题中)是否显示子题目', true) },
+        controlShowPictureAnswer: { default: boolean('是否显示拍照作答按键', false) },
+        controlTopicRequest: { default: boolean('是否显示题目要求', false) },
+        controlShowBottom: { default: boolean('是否显示底部解析', true) },
+        controlShowRightAnswer: { default: boolean('控制直接显示正确答案，优先级高于controlAnswered', true) },
+        controlShowStatus: { default: boolean('是否显示顶部答题状态', true) },
+        dataSource: { default: array('题目数据', allSourceMock) },
+      },
+      template: `<topicCombine 
+        :dataSource="dataSource" 
+        :controlIsGroup="controlIsGroup" 
+        :controlShowSubTitle="controlShowSubTitle"
+        :controlShowPictureAnswer="controlShowPictureAnswer"
+        :controlTopicRequest="controlTopicRequest"
+        :controlShowRightAnswer="controlShowRightAnswer"
+        :controlShowStatus="controlShowStatus"
+        :controlShowBottom="controlShowBottom"
+        :controlAnswered="controlAnswered"
+        :controlCurrentTopicIndex="controlCurrentTopicIndex"
+      >
+      </topicCombine>`,
+    }}
+  </Story>
+</Preview>
+
+课堂预习/课堂测试 --- 自定义解析
+
+<Preview>
+  <Story name="自定义解析">
+    {{
+      components: { topicCombine },
+      props: {
+        controlCurrentTopicIndex: { default: number('控制显示当前题目', 0) },
+        controlAnswered: { default: boolean('未作答、已作答标志，true为已作答', true) },
+        controlIsGroup: { default: boolean('是否显示组合题的小题题目前面的序号', true) },
+        controlShowSubTitle: { default: boolean('(wap组合题中)是否显示子题目', true) },
+        controlShowPictureAnswer: { default: boolean('是否显示拍照作答按键', false) },
+        controlTopicRequest: { default: boolean('是否显示题目要求', false) },
+        controlShowBottom: { default: boolean('是否显示底部解析', true) },
+        controlShowRightAnswer: { default: boolean('控制直接显示正确答案，优先级高于controlAnswered', true) },
+        controlShowStatus: { default: boolean('是否显示顶部答题状态', true) },
+        dataSource: { default: array('题目数据', allSourceMock) },
+      },
+      template: `<topicCombine 
+        :dataSource="dataSource" 
+        :controlIsGroup="controlIsGroup" 
+        :controlShowSubTitle="controlShowSubTitle"
+        :controlShowPictureAnswer="controlShowPictureAnswer"
+        :controlTopicRequest="controlTopicRequest"
+        :controlShowRightAnswer="controlShowRightAnswer"
+        :controlShowStatus="controlShowStatus"
+        :controlShowBottom="controlShowBottom"
+        :controlAnswered="controlAnswered"
+        :controlCurrentTopicIndex="controlCurrentTopicIndex"
+      >
+      <div slot="status">自定义状态0</div>
+      <div slot="questionBottom">这是自定义教师端统计插槽0!!!</div>
+      <div slot="bottom">自定义解析0</div>
+      </topicCombine>`,
+    }}
+  </Story>
+</Preview>

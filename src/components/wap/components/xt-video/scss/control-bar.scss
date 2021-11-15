@@ -1,0 +1,257 @@
+@mixin background-size($url, $size: 100%) {
+  background: url($url) no-repeat;
+  background-size: $size $size;
+}
+
+$height:63px;
+$fullscreen-height:120px;
+.vjs-control-wrap{
+
+}
+.vjs-control-back{
+  position: absolute;
+  top: 0;
+
+  width: 100%;
+  background:linear-gradient(180deg,rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%);
+  height: $fullscreen-height;
+
+  .vjs-back-btn{
+    width: 56px;
+    height: 56px;
+    margin: 12px 0 0 32px;
+    @include background-size("images/back.png");
+  }
+}
+.vjs-control-bar-show{
+  opacity: 1;
+}
+.vjs-control-bar-hide{
+  opacity: 0;
+}
+
+
+.vjs-control-bar {
+  position: absolute;
+  left: 0;
+  bottom: 5px;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  padding: 0 24px;
+  background:linear-gradient(360deg,rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%);
+
+  .vjs-button {
+    width: 48px;
+    height: 48px;
+  }
+  .vjs-time-control {
+    display: block;
+    color: #fff;
+    line-height: $control-height;
+    font-size: 20px;
+  }
+.vjs-current-time-display,.vjs-duration-display{
+  font-size: 20px;
+  color: #FFFFFF;
+  opacity: .3;
+}
+  // 重新加载
+  .vjs-reload {
+    @include background-size("images/vreload.svg");
+  }
+  // 播放按钮
+  .vjs-playing {
+    @include background-size("images/vpause.png");
+  }
+  .vjs-paused {
+    @include background-size("images/vplay.png");
+  }
+  .vjs-back {
+    margin-right: 15px;
+    @include background-size("images/back-10.png");
+  }
+  .vjs-forward {
+    margin: 0 15px;
+    @include background-size("images/forward-10.png");
+  }
+
+  // 时间轴
+  .vjs-center.vjs-control {
+    display: flex;
+    flex: 1;
+    //margin-right: 14px;
+    margin: 0 24px;
+  }
+  .vjs-progress-control {
+    position: relative;
+    display: flex;
+    flex: 1;
+    margin: 0 16px;
+    align-items: center;;
+    .vjs-progress-holder {
+      position: relative;
+      flex: auto;
+      margin: 0;
+      height: 8px;
+      background: rgba($color: #fff, $alpha: 0.6);
+      border-radius: 10px
+    }
+    .vjs-load-progress,.vjs-play-progress {
+      position: absolute;
+      display: block;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      width: 0;
+    }
+    .vjs-load-progress {
+      background: rgba(255, 215, 0, .3);
+      border-radius: 10px
+    }
+    .vjs-play-progress {
+      background: $primary-background-color;
+      border-radius: 10px
+
+    }
+  }
+
+  /* 进度条 */
+  .vjs-progress-control {
+    .vjs-progress-holder {
+      .vjs-play-progress:after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 50%;
+        z-index: 1;
+        width: 28px;
+        height: 28px;
+        border-radius: 100%;
+        transform: translateX(50%) translateY(-50%);
+        background-image: radial-gradient(rgba(255, 215, 0, 1) 30%, rgba(255, 215, 0, 0.3) 70%);
+      }
+      .vjs-play-progress:before {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 50%;
+        z-index: 1;
+        background: transparent;
+        width: 100px;
+        height: 100px;
+        border-radius: 100%;
+        transform: translateX(50%) translateY(-50%);
+        opacity:0.3;
+      }
+    }
+    &:hover {
+      .vjs-progress-holder {
+        font-size: 1.2em;
+      }
+    }
+  }
+  .xjs-progress-dot {
+    z-index: 1001;
+    position: absolute;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    .xjs-progress-dot-bar {
+      position: absolute;
+      display: inline-block;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: #fff;
+    }
+    .xjs-progress-dot-tooltip {
+      display: none;
+      position: absolute;
+      top: -30px;
+      width: 88px;
+      margin-left: 5px;
+      padding: 5px;
+      background:rgba(255,255,255,.3);
+      border-radius:21px 21px 21px 0px;
+      color: #fff;
+    }
+  }
+  // 全屏
+  .vjs-fullscreen-control {
+    @include background-size("images/vfullscreen.png");
+    &.fullsceen {
+      background: none;
+      display: none;
+    }
+  }
+  // 处于全屏状态下的样式
+  &.fullscreen {
+    height: $fullscreen-height;
+    flex-direction: row;
+    position: fixed;
+    padding: 0 32px;
+    .vjs-button {
+      width: 48px;
+      height: 48px;
+    }
+    .vjs-current-time-display,.vjs-duration-display{
+      font-size: 11px;
+      color: #FFFFFF;
+      opacity: .3;
+    }
+    // 时间轴
+    .vjs-center.vjs-control {
+      display: flex;
+      flex: 1;
+      //margin-right: 14px;
+      margin: 0 24px;
+    }
+    /* 进度条 */
+    .vjs-progress-control {
+      margin: 0 16px;
+      .vjs-progress-holder {
+        height: 4px;
+        .vjs-play-progress:after {
+          width: 28px;
+          height: 28px;
+        }
+      }
+      .vjs-load-progress,.vjs-play-progress {
+
+      }
+      .vjs-load-progress {
+
+      }
+      .vjs-play-progress {
+
+      }
+
+    }
+    //时间
+    .vjs-current-time-display,.vjs-duration-display{
+
+
+    }
+    //.vjs-progress-control {
+    //  width: 100%;
+    //  height: 13px;
+    //}
+    //.vjs-time-control {
+    //  font-size: 36px;
+    //  line-height: 84px;
+    //}
+    //.vjs-footer {
+    //  position: relative;
+    //  margin-top: 13px;
+    //  width: 100%;
+    //  display: flex;
+    //}
+    //.vjs-duration {
+    //  color: #C3C8C7;
+    //}
+  }
+}

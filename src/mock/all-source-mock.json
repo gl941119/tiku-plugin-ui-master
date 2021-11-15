@@ -1,0 +1,1869 @@
+[
+
+  {
+
+    "id": 7,
+
+    "module": "单选题",
+
+    "module_points": 39,
+
+    "exam_paper_topic": [
+
+      {
+
+        "id": 918,
+
+        "parent_id": 0,
+
+        "points": 10,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">有一个挂钟，每小时敲一下，几点钟就敲几下。六点时，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">5</span><span style=\"font-family:宋体\">秒钟敲完，那么十二点时，（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: 宋体\">）秒钟敲完。</span></p><p><br/></p>",
+
+        "topic_analysis": "<p style=\"line-height:150%\"><span style=\"font-family: 宋体;\">敲钟的那一下不计时，计的是敲两下中的间隔时间</span></p><p><br/></p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 934,
+
+            "sort": 2,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">两岸的山峰、绿竹映入水中，就像一幅风景画。</span></p>",
+
+            "is_answer": 1,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 935,
+
+            "sort": 3,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">魔术师爷爷好像知道了小老鼠的心事。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 936,
+
+            "sort": 4,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">他低着脑袋，好像很不开心。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "D",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 7,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "B"
+
+        ]
+
+      },
+
+      {
+
+        "id": 909,
+
+        "parent_id": 0,
+
+        "points": 2,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%;vertical-align:baseline\"><span style=\"font-family:宋体\">某学校有</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">8</span><span style=\"font-family:宋体\">个年级，每个年级有</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">108</span><span style=\"font-family:宋体\">名同学，那么这个学校一共有（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">&nbsp;&nbsp;&nbsp; </span><span style=\"font-family: 宋体\">）人。</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>无</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 937,
+
+            "sort": 1,
+
+            "option_title": "正确",
+
+            "is_answer": 1,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 939,
+
+            "sort": 1,
+
+            "option_title": "正确",
+
+            "is_answer": 1,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 938,
+
+            "sort": 2,
+
+            "option_title": "错误",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 7,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "A",
+
+          "A"
+
+        ]
+
+      },
+
+      {
+
+        "id": 768,
+
+        "parent_id": 0,
+
+        "points": 2,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">花花老师在黑板上写下了一串数字如下，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family:宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">4</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">1</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">3</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">4</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">1</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">3</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family: 宋体\">，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">······</span><span style=\"font-family:宋体\">，请问前</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">98</span><span style=\"font-family: 宋体\">个数字的和是多少？（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\"> &nbsp;&nbsp;&nbsp;</span><span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>周期为4</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 941,
+
+            "sort": 1,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">星星在天空中眨着眼睛。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 940,
+
+            "sort": 2,
+
+            "option_title": "错误",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 942,
+
+            "sort": 2,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">小草弟弟调皮地钻出了小脑袋。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 943,
+
+            "sort": 3,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">荷花像穿粉裙子的小姑娘，在池塘舞蹈着。</span></p>",
+
+            "is_answer": 1,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 7,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "C"
+
+        ]
+
+      },
+
+      {
+
+        "id": 767,
+
+        "parent_id": 0,
+
+        "points": 10,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">把两根长为</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">14</span><span style=\"font-family:宋体\">米的短尺用绳子捆成一根长尺，中间捆在一起的重叠部分是</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family:宋体\">米，捆成的长尺长（</span><span style=\"font-family: &#39;Times New Roman&#39;,&#39;serif&#39;\"> &nbsp;&nbsp;&nbsp;</span><span style=\"font-family:宋体\">）寸？</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>重叠部分会重复算一次</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 945,
+
+            "sort": 1,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">小草黄了，树叶也黄了，我听见风踩在树叶上沙沙响。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 946,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">初放的鲜花，嫩绿的草地，墙上爬满了绿色的植物，街上飘动着五颜六色的衣裙。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 947,
+
+            "sort": 3,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">白天，可以在浓浓的树荫下，听知了悠长的鸣叫，看点点光影在地上闪耀。</span></p>",
+
+            "is_answer": 1,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 944,
+
+            "sort": 4,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">电线杆上的鸟儿们叽叽喳喳地开着音乐会。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "D",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "C"
+
+        ]
+
+      },
+
+      {
+
+        "id": 771,
+
+        "parent_id": 0,
+
+        "points": 5,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">毛大爷的年龄比田田大</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">54</span><span style=\"font-family:宋体\">岁，</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">5</span><span style=\"font-family: 宋体\">年后，毛大爷的年龄是田田的</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">4</span><span style=\"font-family: 宋体\">倍。请问</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">5</span><span style=\"font-family: 宋体\">年后毛大爷多少岁？（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\"> &nbsp;&nbsp;&nbsp;</span><span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>根据倍数关系求出每一份</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 949,
+
+            "sort": 1,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">的</span></p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 950,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">地</span></p>",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 951,
+
+            "sort": 3,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">得</span></p>",
+
+            "is_answer": 1,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 948,
+
+            "sort": 4,
+
+            "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">墙角数枝梅，凌寒独自开。</span></p>",
+
+            "is_answer": 2,
+
+            "label": "D",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "C"
+
+        ]
+
+      },
+
+      {
+
+        "id": 770,
+
+        "parent_id": 0,
+
+        "points": 5,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family: &#39;Times New Roman&#39;,&#39;serif&#39;\"></span><span style=\"font-family:宋体\">有个竹子，第二年长为原来的</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family:宋体\">倍少</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">1</span><span style=\"font-family: 宋体\">米，第三年长为原来的</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">3</span><span style=\"font-family: 宋体\">倍多</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family: 宋体\">米，最终竹子长为</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">17</span><span style=\"font-family: 宋体\">米，第一年竹子多长呢？（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\"> &nbsp;&nbsp;&nbsp;</span><span style=\"font-family:宋体\">）</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>略</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 952,
+
+            "sort": 1,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">的</span></p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 955,
+
+            "sort": 1,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">的</span></p>",
+
+            "is_answer": 1,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 953,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">地</span></p>",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 954,
+
+            "sort": 3,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">得</span></p>",
+
+            "is_answer": 1,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "C",
+
+          "A"
+
+        ]
+
+      },
+
+      {
+
+        "id": 772,
+
+        "parent_id": 0,
+
+        "points": 5,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">毛田田上楼，从第一层走到第三层需要走</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">16</span><span style=\"font-family:宋体\">级台阶，那么从第一层走到第六层需要走（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\"> &nbsp;&nbsp;&nbsp;</span><span style=\"font-family:宋体\">）级台阶？（各楼层之间的台阶数相同）</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>爬楼问题第一楼不算</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 958,
+
+            "sort": 1,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">的</span></p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 956,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">地</span></p>",
+
+            "is_answer": 2,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 959,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">地</span></p>",
+
+            "is_answer": 1,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 957,
+
+            "sort": 3,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">得</span></p>",
+
+            "is_answer": 2,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "B"
+
+        ]
+
+      },
+
+      {
+
+        "id": 1140,
+
+        "parent_id": 0,
+
+        "points": 0,
+
+        "topic_type": 1,
+
+        "subject_id": 62,
+
+        "topic_body": "<p><span style=\"overflow-wrap: break-word; font-family: 宋体; font-size: 11pt;\">请以“生命的色彩”为话题，写一篇记叙文（或散文）。</span></p><p style=\"overflow-wrap: break-word; padding: 0px; margin: 0pt; list-style-type: none; color: rgb(68, 68, 68); font-family: 新宋体; white-space: normal; background-color: rgb(255, 255, 255); font-size: 11pt; line-height: 22px;\"><span style=\"overflow-wrap: break-word; font-family: 宋体; font-size: 11pt;\">要求:自选角度，自拟标题;不要套作，不得抄袭;必须要有适当的景</span><span style=\"overflow-wrap: break-word; font-family: 宋体; font-size: 11pt;\">物描写；不少于800字。</span></p>",
+
+        "topic_analysis": "<p>数学基础知识<br/></p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 2572,
+
+            "sort": 1,
+
+            "option_title": "<p>一位数</p>",
+
+            "is_answer": 2,
+
+            "label": "A",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 2573,
+
+            "sort": 2,
+
+            "option_title": "<p>两位数</p>",
+
+            "is_answer": 1,
+
+            "label": "B",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 2574,
+
+            "sort": 3,
+
+            "option_title": "<p>三位数</p>",
+
+            "is_answer": 2,
+
+            "label": "C",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 7,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "B"
+
+        ]
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "id": 8,
+
+    "module": "多选题",
+
+    "module_points": 0,
+
+    "exam_paper_topic": []
+
+  },
+
+  {
+
+    "id": 9,
+
+    "module": "判断题",
+
+    "module_points": 5,
+
+    "exam_paper_topic": [
+
+      {
+
+        "id": 1154,
+
+        "parent_id": 0,
+
+        "points": 5,
+
+        "topic_type": 3,
+
+        "subject_id": 62,
+
+        "topic_body": "<p>范德萨范德萨发呆</p>",
+
+        "topic_analysis": "<p>中国历史</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 961,
+
+            "sort": 1,
+
+            "option_title": "正确",
+
+            "is_answer": 1,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 960,
+
+            "sort": 3,
+
+            "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">得</span></p>",
+
+            "is_answer": 2,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          ""
+
+        ]
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "id": 10,
+
+    "module": "填空题",
+
+    "module_points": 25,
+
+    "exam_paper_topic": [
+
+      {
+
+        "id": 897,
+
+        "parent_id": 0,
+
+        "points": 0,
+
+        "topic_type": 4,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">贝贝家里一共有三个姑姑：心姑姑，田姑姑，花姑姑，三人中有一名教师，一名医生和一名警察。三人进行了口算比赛，成绩如下：</span></p><p style=\"line-height:150%\"><span style=\"font-family:宋体\">（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">1</span><span style=\"font-family:宋体\">）花姑姑比教师的成绩好。</span></p><p style=\"line-height:150%\"><span style=\"font-family:宋体\">（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-family:宋体\">）心姑姑和医生的成绩不同。</span></p><p style=\"line-height:150%\"><span style=\"font-family:宋体\">（</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">3</span><span style=\"font-family:宋体\">）医生比田姑姑的成绩差。</span></p><p style=\"line-height:150%\"><span style=\"font-family:宋体\">那么心姑姑的职业是</span><input readonly=\"readonly\" class=\"custom-fill-slot\" value=\"{(__1__)}\" /><span style=\"font-family:宋体\">，田姑姑的职业是</span><input readonly=\"readonly\" class=\"custom-fill-slot\" value=\"{(__2__)}\" /><span style=\"font-family:宋体\">，花姑姑的职业是</span><input readonly=\"readonly\" class=\"custom-fill-slot\" value=\"{(__3__)}\" /><span style=\"font-family:宋体\">。</span></p><p><br/></p>",
+
+        "topic_analysis": "<p><span style=\"font-size: 14px; font-family: 宋体;\">逻辑推理题，列表法和神箭法结合</span></p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 963,
+
+            "sort": 1,
+
+            "option_title": "正确",
+
+            "is_answer": 2,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 962,
+
+            "sort": 2,
+
+            "option_title": "错误",
+
+            "is_answer": 2,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          },
+
+          {
+
+            "id": 964,
+
+            "sort": 2,
+
+            "option_title": "错误",
+
+            "is_answer": 1,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": [
+
+          "错误"
+
+        ]
+
+      },
+
+      {
+
+        "id": 774,
+
+        "parent_id": 0,
+
+        "points": 0,
+
+        "topic_type": 4,
+
+        "subject_id": 62,
+
+        "topic_body": "<p style=\"line-height:150%\"><span style=\"font-family:宋体\">心田花开学校考试的时候，花花把一道减法算式中被减数个位上的</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">6</span><span style=\"font-family:宋体\">和十位上的</span><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">9</span><span style=\"font-family: 宋体\">写反了，得到的结果和正确的结果相差</span><span style=\"text-decoration:underline;\"><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\"><input readonly=\"readonly\" class=\"custom-fill-slot\" value=\"{(__1__)}\" /></span></span><span style=\"font-family:宋体\">呢？</span></p><p><br/></p>",
+
+        "topic_analysis": "<p>错中求解，逆推思维解决问题</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 965,
+
+            "sort": 1,
+
+            "option_title": "<p><span style=\"font-size: 19px;font-family: 宋体\">31524</span></p>",
+
+            "is_answer": 2,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": []
+
+      },
+
+      {
+
+        "id": 265,
+
+        "parent_id": 0,
+
+        "points": 0,
+
+        "topic_type": 4,
+
+        "subject_id": 62,
+
+        "topic_body": "<p>2. 把下面的方格子分成形状、大小相同的两部分，有________种分法。<input readonly=\"readonly\" class=\"custom-fill-slot\" value=\"{(__1__)}\" /></p><p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1593958106279_0.21938370487522563_112.png\"/></p><p><br/></p><p><br/></p>",
+
+        "topic_analysis": "<p>分成的两个图形每个图形有4个小正方形。</p>",
+
+        "exam_paper_topic_option": [
+
+          {
+
+            "id": 966,
+
+            "sort": 2,
+
+            "option_title": "<p><span style=\"font-size: 19px;font-family: 宋体\">34125</span></p>",
+
+            "is_answer": 2,
+
+            "label": "",
+
+            "selected_rate": 0
+
+          }
+
+        ],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": []
+
+      }
+
+    ]
+
+  },
+
+  {
+
+    "id": 11,
+
+    "module": "组合题",
+
+    "module_points": 40,
+
+    "exam_paper_topic": [
+
+      {
+
+        "id": 999,
+
+        "parent_id": 0,
+
+        "points": 40,
+
+        "topic_type": 6,
+
+        "subject_id": 62,
+
+        "topic_body": "<p>选择</p>",
+
+        "topic_analysis": "<p>无</p>",
+
+        "exam_paper_topic_option": [],
+
+        "student_answer": [],
+
+        "student_score": 0,
+
+        "answer_status": 0,
+
+        "children": [
+
+          {
+
+            "id": 1000,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">8</span><span style=\"font-size:14px;font-family:宋体\">－</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">19</span><span style=\"font-size:14px;font-family:宋体\">＋</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">22</span><span style=\"font-size:14px;font-family:宋体\">＋</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">39</span><span style=\"font-size:14px;font-family:宋体\">的结果是（&nbsp; ）</span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034316581_0.6306836523313404_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 969,
+
+                "sort": 1,
+
+                "option_title": "正确",
+
+                "is_answer": 1,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 967,
+
+                "sort": 3,
+
+                "option_title": "<p><span style=\"font-size: 19px;font-family: 宋体\">35142</span></p>",
+
+                "is_answer": 2,
+
+                "label": "C",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 968,
+
+                "sort": 4,
+
+                "option_title": "<p><span style=\"font-size: 19px;font-family: 宋体\">31425</span></p>",
+
+                "is_answer": 1,
+
+                "label": "D",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "D",
+
+              "A"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1001,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">有一队小朋友，花花从左往右数是第</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">6</span><span style=\"font-size:14px;font-family:宋体\">个，从右往左数是第</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">10</span><span style=\"font-size:14px;font-family:宋体\">个，这一队一共多少个小朋友？</span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034362078_0.8643649892315024_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 971,
+
+                "sort": 1,
+
+                "option_title": "正确",
+
+                "is_answer": 2,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 970,
+
+                "sort": 2,
+
+                "option_title": "错误",
+
+                "is_answer": 2,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 972,
+
+                "sort": 2,
+
+                "option_title": "错误",
+
+                "is_answer": 1,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "B"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1002,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">观察数列</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">4</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">6</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">10</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">16……</span><span style=\"font-size:14px;font-family:宋体\">下一个数应该是？</span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034413804_0.6335041365201761_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 973,
+
+                "sort": 1,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">起因</span></p>",
+
+                "is_answer": 1,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 974,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">经过</span></p>",
+
+                "is_answer": 2,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 975,
+
+                "sort": 3,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">结果</span></p>",
+
+                "is_answer": 2,
+
+                "label": "C",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "A"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1003,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">上面的空填什么？</span></p><p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034434790_0.7057963366487141_img.png\"/></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034456510_0.6523905626988276_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 976,
+
+                "sort": 1,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">故事短小</span></p>",
+
+                "is_answer": 1,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 977,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">多用修辞</span></p>",
+
+                "is_answer": 1,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 978,
+
+                "sort": 3,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">说明道理</span></p>",
+
+                "is_answer": 1,
+
+                "label": "C",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "A",
+
+              "B",
+
+              "C"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1004,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">袋子里有</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">3</span><span style=\"font-size:14px;font-family:宋体\">个白球，</span><span style=\"font-size: 14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-size:14px;font-family:宋体\">个黄球，</span><span style=\"font-size: 14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">2</span><span style=\"font-size:14px;font-family:宋体\">个红球，随意从袋子里摸几个球出来，至少摸几个能让摸出来的球一定有红球？</span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034491062_0.1900068684631384_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 980,
+
+                "sort": 1,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">通过题目提取通过题目提取123456通过题目提取通过题目提取123456</span></p>",
+
+                "is_answer": 1,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 981,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">通过中心句提取通过题目提取132456通过题目提取通过题目提取123456通过题目提取通过题目提取123456</span></p>",
+
+                "is_answer": 2,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 979,
+
+                "sort": 4,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">强调细节</span></p>",
+
+                "is_answer": 2,
+
+                "label": "D",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "A"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1005,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">数一数，下图有几个角？</span></p><p><span style=\"font-size:14px;font-family:宋体\"><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034501986_0.6719892302652151_img.png\"/></span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034527717_0.8896891471846593_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 982,
+
+                "sort": 1,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">时间</span></p>",
+
+                "is_answer": 2,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 983,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">动作</span></p>",
+
+                "is_answer": 1,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 984,
+
+                "sort": 3,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">经过</span></p>",
+
+                "is_answer": 2,
+
+                "label": "C",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "B"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1006,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">一桶水第一次倒出</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">8</span><span style=\"font-size:14px;font-family:宋体\">千克，后来又倒进</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">12</span><span style=\"font-size:14px;font-family:宋体\">千克，第二次倒出</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">21</span><span style=\"font-size:14px;font-family:宋体\">千克，桶里还剩下</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">19</span><span style=\"font-size:14px;font-family:宋体\">千克水，桶里原来有多少千克水？</span></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034585113_0.144246032069983_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 986,
+
+                "sort": 1,
+
+                "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">中心思想</span></p>",
+
+                "is_answer": 2,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 987,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">主要内容</span></p>",
+
+                "is_answer": 1,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 985,
+
+                "sort": 4,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">人物</span></p>",
+
+                "is_answer": 2,
+
+                "label": "D",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "B"
+
+            ]
+
+          },
+
+          {
+
+            "id": 1007,
+
+            "parent_id": 999,
+
+            "points": 5,
+
+            "topic_type": 1,
+
+            "subject_id": 0,
+
+            "topic_body": "<p><span style=\"font-size:14px;font-family:宋体\">将</span><span style=\"font-size: 14px; font-family: 宋体, SimSun;\">“</span><span style=\"font-size:14px;font-family:宋体\">＋，－，</span><span style=\"font-size: 14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">×</span><span style=\"font-size:14px;font-family:宋体\">，</span><span style=\"font-size:14px;font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">÷<span style=\"font-size: 14px; font-family: 宋体, SimSun;\">”</span></span><span style=\"font-size:14px;font-family:宋体\">分别填入下面的圆圈里，每个符号只用一次，使等式成立，最后一个圆圈内只能填？</span></p><p style=\"text-indent:14px;line-height:150%\"><span style=\"font-family:&#39;Times New Roman&#39;,&#39;serif&#39;\">11◯5◯3=6◯3◯2</span></p><p><br/></p>",
+
+            "topic_analysis": "<p><img src=\"https://xthk-teach.oss-cn-shenzhen.aliyuncs.com/teach/1604034638975_0.6418446765172336_img.png\"/></p>",
+
+            "exam_paper_topic_option": [
+
+              {
+
+                "id": 989,
+
+                "sort": 1,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">故事的主人公</span></p>",
+
+                "is_answer": 1,
+
+                "label": "A",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 990,
+
+                "sort": 2,
+
+                "option_title": "<p><span style=\"font-size: 14pt; font-family: 宋体;\">故事的主要内容</span></p>",
+
+                "is_answer": 2,
+
+                "label": "B",
+
+                "selected_rate": 0
+
+              },
+
+              {
+
+                "id": 988,
+
+                "sort": 3,
+
+                "option_title": "<p style=\"margin-top:6px;line-height:140%\"><span style=\"font-size:19px;line-height:140%;font-family:宋体;color:black\">过渡句</span></p>",
+
+                "is_answer": 2,
+
+                "label": "C",
+
+                "selected_rate": 0
+
+              }
+
+            ],
+
+            "student_answer": [],
+
+            "student_score": 0,
+
+            "answer_status": 0,
+
+            "children": null,
+
+            "answer_right_student_rate": 0,
+
+            "topic_file": [],
+
+            "correct_answer": [
+
+              "A"
+
+            ]
+
+          }
+
+        ],
+
+        "answer_right_student_rate": 0,
+
+        "topic_file": [],
+
+        "correct_answer": []
+
+      }
+
+    ]
+
+  }
+
+]

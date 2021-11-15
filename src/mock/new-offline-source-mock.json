@@ -1,0 +1,604 @@
+     [
+         {
+        "lesson_id": "",
+        "need_finish":"1",
+        "lesson_work_id": "",
+        "topic_type": "7",
+        "business":2,
+        "name": "作业名称",
+        "is_right": "0",
+        "score": "作业打分",
+        "deadline_at": "提交截止时间",
+        "content": "<div>作业内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容内容容作业内容作业内容 <img src='https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg'></div>   <img src='https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg'></div>",
+        "analysis": "解析",
+        "lesson_num": "课次序号",
+        "analysis_video_urls": "作业解析视频数组",
+        "topic_analysis": "<div class='para' style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>简单来讲，就是指按内容链接。</div><div class='para' style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>在本质上属于一个<a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>的一部分，它是一种允许我们同其他网页或站点之间进行连接的元素。各个网页链接在一起后，才能真正构成一个网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，网站。所谓的超链接是指从一个网页指向一个目标的连接关系，这个目标可以是另一个<a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>，也可以是相同网页上的不同位置，还可以是一个图片，一个电子邮件地址，一个文件，甚至是一个应用程序。而在一个网页中用来超链接的对象，可以是一段文本或者是一个图片。当浏览者单击已经链接的文字或图片后，链接目标将显示在浏览器上，并且根据目标的类型来打开或运行。</div><div class='basic-info cmn-clearfix' style='margin: 20px 0px 35px; clear: both; background: url(&quot;https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/basicInfo/img/basicInfo-bg_ccaff81.png&quot;) rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, 宋体, sans-serif; font-size: 12px; white-space: normal;'><ul class='basicInfo-block basicInfo-left list-paddingleft-2' style='margin: 0px; padding: 0px; width: 395px; float: left;'></ul></div><p><br/></p>",
+        "details": {
+            "submit_at": "2021-02-0717:00:52",
+            "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3","https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3","https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3","https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+            "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+            "student_video_url": [
+                {
+                    "duration ":"3",
+                    "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                    "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                }
+               ],
+            "content": "第5次回答内容回答内容",
+            "score_type": "1",
+            "is_reject": "1",
+            "revise_status ": "1",
+            "read_analysis ": "1",
+            "submit": [
+                {
+                    "submit_at": "2021-02-0717:00:52",
+                    "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+                    "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                    "student_video_url":[
+                        {
+                            "duration ":"3",
+                            "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                            "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                        }
+                       ], 
+                    "content": "第1次回答内容回答内容",
+                    "analysis_image_urls": ["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                    "analysis_voice_urls":[
+                        {
+                            "voice_time":"3",
+                            "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/3E09F74E068F40ADBCBBAE6EDE2C8E0C.mp3"
+                        },
+                        {
+                            "voice_time":"4",
+                            "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/7432B089F41940CEBE8C905BB0AD9825.mp3"
+                        },
+                        {
+                            "voice_time":"4",
+                            "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/5DC6B1698CC84BD28B92775CB5EB26F3.mp3"
+                        },
+                        {
+                            "voice_time":"4",
+                            "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/97B69D0A9C2B494A800C296F4F8E95A3.mp3"
+                        },
+                        {
+                            "voice_time":"5",
+                            "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/AD785A97D22248309B8CBC793AC04417.mp3"
+                        }
+                    ],                    
+                    "revise_at": "1",
+                    "score": "88",
+                    "rank": "B",
+                    "score_type": "1",
+                    "marks": [
+                      {
+                          "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                          "list": [
+                              {
+                                  "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                  "serial_number": "1",
+                                  "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                              },
+                              {
+                                  "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                  "serial_number": "2",
+                                  "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                              },
+                              {
+                                  "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                  "serial_number": "3",
+                                  "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                              },
+                              {
+                                  "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                  "serial_number": "4",
+                                  "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                              }
+                          ]
+                      },
+                      {
+                        "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "list": [
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "1",
+                                "content": "测试1数据1测试1数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "2",
+                                "content": "测试数据测646试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "3",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "4",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            }
+                        ]
+                    },
+                    {
+                      "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                      "list": [
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "1",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "2",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "3",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          }
+                      ]
+                  }
+                    ],
+                    "analysis_content": "1",
+                    "is_reject": "1",
+                    "revise_status ": "1",
+                    "read_analysis ": "1"
+                },
+                {
+                  "submit_at": "2021-02-0717:00:52",
+                  "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+                  "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                  "student_video_url": [
+                    {
+                        "duration ":"3",
+                        "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                        "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                    }
+                   ],
+                  "content": "第二次回答内容回答内容",
+                  "analysis_image_urls": ["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                  "analysis_voice_urls":[
+                    {
+                        "voice_time":"3",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/3E09F74E068F40ADBCBBAE6EDE2C8E0C.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/7432B089F41940CEBE8C905BB0AD9825.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/5DC6B1698CC84BD28B92775CB5EB26F3.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/97B69D0A9C2B494A800C296F4F8E95A3.mp3"
+                    },
+                    {
+                        "voice_time":"5",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/AD785A97D22248309B8CBC793AC04417.mp3"
+                    }
+                ],                
+                  "revise_at": "1",
+                  "score": "88",
+                  "rank": "B",
+                  "marks": [
+                    {
+                        "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "list": [
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "1",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "2",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "3",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "4",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            }
+                        ]
+                    },
+                    {
+                      "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                      "list": [
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "1",
+                              "content": "测试1数据1测试1数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "2",
+                              "content": "测试数据测646试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "3",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "4",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          }
+                      ]
+                  },
+                  {
+                    "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                    "list": [
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "1",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "2",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "3",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        }
+                    ]
+                }
+                  ],
+                  "score_type": "1",
+                  "analysis_content": "1",
+                  "is_reject": "1",
+                  "revise_status ": "1",
+                  "read_analysis ": "1"
+              },
+              {
+                "submit_at": "2021-02-0717:00:52",
+                "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+                "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                "student_video_url": [
+                    {
+                        "duration ":"3",
+                        "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                        "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                    }
+                   ],
+                "content": "第3次回答内容回答内容",
+                "analysis_image_urls": ["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+                "analysis_voice_urls":[
+                    {
+                        "voice_time":"3",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/3E09F74E068F40ADBCBBAE6EDE2C8E0C.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/7432B089F41940CEBE8C905BB0AD9825.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/5DC6B1698CC84BD28B92775CB5EB26F3.mp3"
+                    },
+                    {
+                        "voice_time":"4",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/97B69D0A9C2B494A800C296F4F8E95A3.mp3"
+                    },
+                    {
+                        "voice_time":"5",
+                        "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/AD785A97D22248309B8CBC793AC04417.mp3"
+                    }
+                ],
+                "revise_at": "1",
+                "score": "88",
+                "rank": "B",
+                "marks": [
+                    {
+                        "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "list": [
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "1",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "2",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "3",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            },
+                            {
+                                "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                                "serial_number": "4",
+                                "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                            }
+                        ]
+                    },
+                    {
+                      "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                      "list": [
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "1",
+                              "content": "测试1数据1测试1数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "2",
+                              "content": "测试数据测646试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "3",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          },
+                          {
+                              "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                              "serial_number": "4",
+                              "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                          }
+                      ]
+                  },
+                  {
+                    "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                    "list": [
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "1",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "2",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "3",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        }
+                    ]
+                }
+                  ],
+                "score_type": "1",
+                "analysis_content": "1",
+                "is_reject": "1",
+                "revise_status ": "1",
+                "read_analysis ": "1"
+            },
+            {
+              "submit_at": "2021-02-0717:00:52",
+              "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+              "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+              "student_video_url": [
+                {
+                    "duration ":"3",
+                    "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                    "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                }
+               ],
+              "content": "第4次回答内容回答内容",
+              "analysis_image_urls": ["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+              "analysis_voice_urls":[
+                {
+                    "voice_time":"3",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/3E09F74E068F40ADBCBBAE6EDE2C8E0C.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/7432B089F41940CEBE8C905BB0AD9825.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/5DC6B1698CC84BD28B92775CB5EB26F3.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/97B69D0A9C2B494A800C296F4F8E95A3.mp3"
+                },
+                {
+                    "voice_time":"5",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/AD785A97D22248309B8CBC793AC04417.mp3"
+                }
+            ],            
+              "revise_at": "1",
+              "score": "88",
+              "rank": "B",
+              "marks": [
+                {
+                    "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                    "list": [
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "1",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "2",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "3",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        },
+                        {
+                            "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                            "serial_number": "4",
+                            "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                        }
+                    ]
+                },
+                {
+                  "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                  "list": [
+                  ]
+              },
+              {
+                "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                "list": [
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "1",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    },
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "2",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    },
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "3",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    }
+                ]
+            }
+              ],
+              "score_type": "1",
+              "analysis_content": "1",
+              "is_reject": "1",
+              "revise_status ": "1",
+              "read_analysis ": "1"
+          },{
+            "submit_at": "2021-02-0717:00:52",
+            "voice_urls": ["https://gd-sycdn.kuwo.cn/5f67adccc506a8a8e9e01ed8ca111aec/6017b3a1/resource/n2/80/86/3972863225.mp3"],
+            "image_urls":["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+            "student_video_url": [
+                {
+                    "duration ":"3",
+                    "coverUrl":"https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                    "url":"http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4"
+                }
+               ],
+            "content": "第5次回答内容回答内容",
+            "analysis_image_urls": ["https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg", "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596208919006_3_3407_37876_1596209858372_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg","https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg"],
+            "analysis_voice_urls":[
+                {
+                    "voice_time":"3",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/3E09F74E068F40ADBCBBAE6EDE2C8E0C.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/7432B089F41940CEBE8C905BB0AD9825.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/5DC6B1698CC84BD28B92775CB5EB26F3.mp3"
+                },
+                {
+                    "voice_time":"4",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/97B69D0A9C2B494A800C296F4F8E95A3.mp3"
+                },
+                {
+                    "voice_time":"5",
+                    "voice_url":"https://app-version-1.oss-cn-shenzhen.aliyuncs.com/dt/20210318/AD785A97D22248309B8CBC793AC04417.mp3"
+                }
+            ],            
+            "revise_at": "1",
+            "score": "88",
+            "rank": "B",
+            "marks": [
+                {
+                    "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                    "list": []
+                },
+                {
+                  "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/oss/homework/2020/07/iphone46_1596209351482_0_3407_37876_1596209858875_g.jpg",
+                  "list": [
+                      {
+                          "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                          "serial_number": "1",
+                          "content": "测试1数据1测试1数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                      },
+                      {
+                          "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                          "serial_number": "2",
+                          "content": "测试数据测646试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                      },
+                      {
+                          "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                          "serial_number": "3",
+                          "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                      },
+                      {
+                          "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                          "serial_number": "4",
+                          "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                      }
+                  ]
+              },
+              {
+                "image_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                "list": [
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "1",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    },
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "2",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    },
+                    {
+                        "teacher_file_url": "https://xthk-online.oss-cn-shenzhen.aliyuncs.com/80172_1587034989313_3071_g.jpg",
+                        "serial_number": "3",
+                        "content": "测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据测试数据"
+                    }
+                ]
+            }
+              ],
+            "score_type": "1",
+            "analysis_content": "1",
+            "is_reject": "1",
+            "revise_status ": "1",
+            "read_analysis ": "1"
+        }
+            ]
+        },
+        "topic_file": [
+            {
+              "id": "99",
+              "topic_id": "118",
+              "file_url": "https://app-version-1.oss-cn-shenzhen.aliyuncs.com/xtys/20210126/vc-upload-1611627174163-24_郭德纲、张文顺 - 大富贵图 .mp3",
+              "path": "\/topic",
+              "file_purpose": "1",
+              "media_id": "6a3a2909f0224baeb5bd12dcd39e27c6",
+              "resource_type": "2"
+            },
+            {
+              "id": "100",
+              "topic_id": "118",
+              "file_url": "http://sp.jzsc.net/upload/video/2020-08-24/f84be427-bd7d-4f60-9b4b-e3f7e362685d.mp4",
+              "path": "\/topic",
+              "file_purpose": "2",
+              "media_id": "e24e358b72a84bd98cc5346bfe3fc5b9",
+              "resource_type": "2"
+            },
+            {
+              "id": "101",
+              "topic_id": "118",
+              "file_url": "https://app-version-1.oss-cn-shenzhen.aliyuncs.com/xtys/20210126/vc-upload-1611627174163-22_郭德纲、张文顺 - 大富贵图 .mp3",
+              "path": "\/topic",
+              "file_purpose": "3",
+              "media_id": "c0d5292f3e0f4f13bc083a96516e8215",
+              "resource_type": "2"
+            }
+        ]
+     }
+    ]

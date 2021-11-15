@@ -1,0 +1,126 @@
+@keyframes spin { 100% { transform:rotate(360deg); } }
+
+.vjs-open{
+  width: 100% !important;
+  height: 100% !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  z-index: 2020;
+}
+.xt-video {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  //background: #FFFFFF;
+  //background: black;
+
+  &--toolbar {
+    z-index: 9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 88px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 0.65;
+    padding: 0 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    .top-img {
+      width: 48px;
+      height: 48px;
+    }
+  }
+  video {
+    width: 100%;
+    height: 100%;
+
+  }
+  .vjs-control-text {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px
+  }
+  .vjs-loading-spinner {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+    opacity: .85;
+    text-align: left;
+    border: 6px solid rgba(43,51,63,.7);
+    box-sizing: border-box;
+    background-clip: padding-box;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    &::before,&::after {
+      content: "";
+      position: absolute;
+      margin: -6px;
+      box-sizing: inherit;
+      width: inherit;
+      height: inherit;
+      border-radius: inherit;
+      opacity: 1;
+      border: inherit;
+      border-color: #fff transparent transparent;
+    }
+  }
+  button {
+    background: 0 0;
+    border: none;
+    color: inherit;
+    display: inline-block;
+    font-size: inherit;
+    line-height: inherit;
+    text-transform: none;
+    text-decoration: none;
+    transition: none;
+    appearance: none;
+  }
+  .vjs-bigplay-button {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 88px;
+    height: 88px;
+    border: none;
+    border-radius: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background: url(images/play-big.png) no-repeat center;
+    background-size: 88px;
+    &:focus {
+      border: none;
+      outline: none;
+    }
+    //.vjs-icon-placeholder {
+    //  display: none;
+    //}
+  }
+
+  &.vjs-playing {
+    .vjs-bigplay-button {
+      display: none;
+    }
+  }
+  &.vjs-waiting {
+    .vjs-loading-spinner {
+      display: block;
+      animation:spin 2s linear infinite;
+    }
+  }
+  &.vjs-user-inactive {
+    .vjs-control-bar {
+      display: none;
+    }
+  }
+}

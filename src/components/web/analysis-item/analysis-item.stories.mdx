@@ -1,0 +1,97 @@
+import { Meta, Props, Story, Preview } from '@storybook/addon-docs/blocks'
+import { action } from "@storybook/addon-actions"
+import { linkTo } from '@storybook/addon-links'
+import AnalysisItem from './index.vue'
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs';
+import  analysisData  from '@/mock/analysis-item.json'
+import {REVIEW_NO_ANSWER, REVIEW_RIGHT_ANSWER,REVIEW_RIGHT_PART_ANSWER, REVIEW_ERROR_ANSWER, REVIEW_NO_REVIEW} from '@/config/subject-config'
+
+
+
+
+<Meta title="web 业务组件|简答题" component={AnalysisItem} decorators={[withKnobs({escapeHTML:false})]} />
+
+# 简答题
+
+<Props of={AnalysisItem} /> 
+
+默认显示扫码上传图片展示样式，只传入题目数据对象即可，未作答时。
+
+<Preview>
+  <Story name="默认状态/未作答">
+    {{   
+      components: { AnalysisItem },
+      props:{
+        dataAppName:{
+          default: text('二维码类型',"online_edu_user_web")
+        },
+        dataSubject:{
+          default: object('题目数据对象',analysisData)
+        },
+        dataStudentAnswer:{
+          default: array('学生本次作答图片列表',[])
+        }
+      },
+      template: `<analysis-item @preview="preview"  @delanswer="delanswer" @choose="choose"  :dataAppName="dataAppName"    @particulars="particulars" :dataStudentAnswer="dataStudentAnswer" :dataSubject="dataSubject"></analysis-item>`,
+      methods: { 
+            preview: action("preview"),
+            particulars: action("particulars"),
+            delanswer: action("delanswer"),
+            choose: action("choose"),
+          },
+    }} 
+  </Story>
+</Preview>
+
+
+<Preview>
+  <Story name="自定义状态/已作答">
+    {{   
+      components: { AnalysisItem },
+      props:{
+        dataAppName:{
+          default: text('二维码类型',"online_edu_user_web")
+        },
+        controlStatus:{
+          default: text('答题状态0/1/2/3/4（用于简答题传入）',REVIEW_ERROR_ANSWER)
+        },
+        dataRankSting:{
+          default: text('题目标题序号','1.')
+        },
+        controlShowStatus:{
+          default: boolean('是否显示顶部答题状态',true)
+        },
+        controlTopicRequest:{
+          default: boolean('是否显示题目要求',true)
+        },
+        controlShowTitle:{
+          default: boolean('是否显示标题',true)
+        },
+        controlShowBottom:{
+          default: boolean('是否显示底部',true)
+        },
+        controlShowTeacherAnswer:{
+          default: boolean('是否显示老师批阅',true)
+        },
+        dataSubject:{
+          default: object('题目数据对象',analysisData)
+        },
+        dataStudentAnswer:{
+          default: array('学生本次作答图片列表',[])
+        }
+      },
+      template: `<analysis-item  @picture="picture" @choose="choose"  @preview="preview" @particulars="particulars" @delanswer="delanswer" 
+      :dataSubject="dataSubject" :controlShowTeacherAnswer="controlShowTeacherAnswer" :controlShowStatus="controlShowStatus" 
+      :dataRankSting="dataRankSting" :controlTopicRequest="controlTopicRequest" :controlStatus="controlStatus" 
+      :controlShowBottom="controlShowBottom" :dataStudentAnswer="dataStudentAnswer" :dataAppName="dataAppName" :controlShowTitle="controlShowTitle"></analysis-item>`,
+      methods:
+        { 
+          picture: action("picture"),
+          preview: action("preview"),
+          particulars: action("particulars"),
+          delanswer: action("delanswer"),
+          choose: action("choose"),
+        },
+    }} 
+  </Story>
+</Preview>

@@ -1,0 +1,19 @@
+@mixin control-size($hei, $lin-h, $font-s) {
+  width: $hei;
+  height: $hei;
+  line-height: 2.2;
+  font-size: $font-s;
+}
+
+@mixin control-theme($bg-c, $font-c) {
+  background-color: $bg-c;
+  color: $font-c;
+}
+
+@mixin border-radius-type($percent) {
+  border-radius: $percent;
+}
+
+@mixin border-color($c) {
+  border: 1px solid $c;
+}

@@ -1,0 +1,150 @@
+import { Meta, Props, Story, Preview, Description } from '@storybook/addon-docs/blocks'
+import topic from './index.vue'
+import { action } from '@storybook/addon-actions'
+import { withKnobs, number, object, boolean, text, select, date, array, color } from '@storybook/addon-knobs'
+import SelectionData from '@/mock/select-mock'
+import JudgeData from '@/mock/judge-mock'
+import FillData from '@/mock/fill-mock'
+import analysisData from '@/mock/analysis-item.json'
+import groupData from '@/mock/group-item.json'
+
+<Meta title="web 业务组件|整合题目" component={topic} decorators={[withKnobs({ escapeHTML: false })]} />
+
+# 整合题目
+
+<Props of={topic} />
+
+默认-解析底部
+
+<Preview>
+  <Story name="默认-解析底部">
+    {{
+      components: { topic },
+      props: {
+        dataStudentAnswer:{
+          default: array('学生本次作答图片列表',[])
+        },
+        controlShowBottom: { default: boolean('是否显示底部内容', false) },
+        dataSubject: { default: object('题目数据', FillData) },
+      },
+      template: `<topic :dataSubject="dataSubject" :controlShowBottom="controlShowBottom" :dataStudentAnswer="dataStudentAnswer"></topic>`,
+    }}
+  </Story>
+</Preview>
+
+自定义-解析底部
+
+<Preview>
+  <Story name="自定义-解析底部">
+    {{
+      components: { topic },
+      props: {
+        dataStudentAnswer:{
+          default: array('学生本次作答图片列表',[])
+        },
+        controlShowBottom: { default: boolean('是否显示底部内容', false) },
+        controlIsSingle: { default: boolean('单选题还是多选题，默认为true单选', false) },
+        dataRankSting: { default: text('题目索引 使用时需设置controlShowTitle', '1.') },
+        dataWidth: { default: number('题目选项的宽度，百分比展示，默认100%，可根据剩余宽度自动调整间距', 50) },
+        controlShowTitle: { default: boolean('是否显示title', true) },
+        controlShowStyle: { default: boolean('是否显示标题样式', true) },
+        controlShowScore: { default: boolean('是否显示分数', true) },
+        styleSetClass: { default: text('自定义类名', '') },
+        styleSetChildClass: { default: text('设置child的类名', '') },
+        controlAnswered: { default: boolean('未作答、已作答标志，true为已作答', false) },
+        subdataIndex: { default: number('子题目题的序号 （用于组合题）', 1) },
+        controlStatus: { default: text("题目状态   '0'(未做题) '1'(待批阅) '2'(已批阅)", '0') },
+        controlIsExpiration: { default: boolean('是否错过最晚练习时间', false) },
+        dataSubject: { default: object('题目数据', SelectionData) },
+      },
+      template: `<topic 
+        :dataSubject="dataSubject" 
+        :controlShowBottom="controlShowBottom"
+        :dataRankSting="dataRankSting"
+        :dataWidth="dataWidth"
+        :controlShowTitle="controlShowTitle"
+        :controlShowStyle="controlShowStyle"
+        :controlShowScore="controlShowScore"
+        :styleSetClass="styleSetClass"
+        :styleSetChildClass="styleSetChildClass"
+        :dataStudentAnswer="dataStudentAnswer"
+        :controlIsSingle="controlIsSingle"
+        :controlAnswered="controlAnswered"
+        >
+        <div slot="bottom">这是自定义题目底部!!!</div>
+         <div slot="questionBottom">这是自定义教师端统计插槽!!!</div>
+      </topic>`,
+    }}
+  </Story>
+</Preview>
+
+自定义展示
+
+<Preview>
+  <Story name="自定义展示">
+    {{
+      components: { topic },
+      props: {
+        dataStudentAnswer:{
+          default: array('学生本次作答图片列表',[])
+        },
+        dataAppName: { default: text('二维码信息来源', 'online_edu_user_web') },
+        controlShowBottom: { default: boolean('是否显示底部内容', false) },
+        dataRankSting: { default: text('题目索引 使用时需设置controlShowTitle', '1.') },
+        dataWidth: { default: number('题目选项的宽度，百分比展示，默认100%，可根据剩余宽度自动调整间距', 50) },
+        controlShowTitle: { default: boolean('是否显示title', true) },
+        controlShowStyle: { default: boolean('是否显示标题样式', true) },
+        controlAutoPlay: { default: boolean('改变音频播放时长后是否自动播放', true) },
+        controlShowScore: { default: boolean('是否显示分数', true) },
+        styleSetClass: { default: text('自定义类名', '') },
+        styleSetChildClass: { default: text('设置child的类名', '') },
+        controlAnswered: { default: boolean('未作答、已作答标志，true为已作答', false) },
+        subdataIndex: { default: number('子题目题的序号 （用于组合题）', 1) },
+        controlStatus: { default: text("题目状态   '0'(未做题) '1'(待批阅) '2'(已批阅)", '0') },
+        controlIsExpiration: { default: boolean('是否错过最晚练习时间', false) },
+        dataSubject: { default: object('题目数据', analysisData) },
+      },
+      data() {
+        return {
+          //图片更新回调
+          updateAnswer: function updateAnswer() {
+            console.log('回调成功')
+          },
+        }
+      },
+      template: `<topic 
+        :dataAppName="dataAppName"
+        :dataSubject="dataSubject" 
+        :controlShowBottom="controlShowBottom"
+        :dataRankSting="dataRankSting"
+        :dataWidth="dataWidth"
+        :controlShowTitle="controlShowTitle"
+        :controlShowStyle="controlShowStyle"
+        :controlShowScore="controlShowScore"
+        :styleSetClass="styleSetClass"
+        :styleSetChildClass="styleSetChildClass"
+        :controlAnswered="controlAnswered"
+        :subdataIndex="subdataIndex"
+        :controlStatus="controlStatus"
+        :controlIsExpiration="controlIsExpiration"
+        :controlAutoPlay="controlAutoPlay"
+        :updateAnswer="updateAnswer"
+        :dataStudentAnswer="dataStudentAnswer"
+        @particulars="particulars"
+        @preview="preview"
+        @choose="choose"
+        @imgdelete="imgdelete"
+        >
+        <div slot="status">这是自定义状态!!!</div>
+        <div slot="bottom">这是自定义题目底部!!!</div>
+        <div slot="questionBottom">这是自定义教师端统计插槽!!!</div>
+      </topic>`,
+      methods: { 
+          preview: action("preview"),
+          particulars: action("particulars"),
+          choose: action("choose"),
+          imgdelete: action("imgdelete")
+        },
+    }}
+  </Story>
+</Preview>

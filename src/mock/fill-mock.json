@@ -1,0 +1,56 @@
+{
+  "question_sort_number": "9",
+  "group_id": "403",
+  "group_title": "撒反倒是",
+  "knowledge": "1111",
+  "group_sort": "1",
+  "id": "2795",
+  "is_all_right": "2",
+  "question_title": "<p style='margin-top:6px;line-height:140%'><span style='font-size:19px;line-height:140%;font-family:宋体;color:black'>判断：《晓出净慈寺送林子方》的作者是杨万里，当中的名句是：小荷才露尖尖角，早有蜻蜓立上头。（    ）</span></p>",
+  "topic_type": "4",
+  "analysis": "<div class='para' style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>简单来讲，就是指按内容链接。</div><div class='para' style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>在本质上属于一个<a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>的一部分，它是一种允许我们同其他网页或站点之间进行连接的元素。各个网页链接在一起后，才能真正构成一个网站。所谓的超链接是指从一个网页指向一个目标的连接关系，这个目标可以是另一个<a target='_blank'  style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>，也可以是相同网页上的不同位置，还可以是一个图片，一个电子邮件地址，一个文件，甚至是一个应用程序。而在一个网页中用来超链接的对象，可以是一段文本或者是一个图片。当浏览者单击已经链接的文字或图片后，链接目标将显示在浏览器上，并且根据目标的类型来打开或运行。</div><div class='basic-info cmn-clearfix' style='margin: 20px 0px 35px; clear: both; background: url(&quot;https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/basicInfo/img/basicInfo-bg_ccaff81.png&quot;) rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, 宋体, sans-serif; font-size: 12px; white-space: normal;'><ul class='basicInfo-block basicInfo-left list-paddingleft-2' style='margin: 0px; padding: 0px; width: 395px; float: left;'></ul></div><p><br/></p>",
+  "hard_rank": "3",
+  "exam_paper_id": "112",
+  "question_score": "2.0",
+  "topic_body": "<div class='para' style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank' style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>简单来讲，就是指按内容链接<span class='custom-fill-slot'>{(__<span class='fill-flag'>1</span>__)}</span>。</div><p style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'><a target='_blank' style='color: rgb(19, 110, 194); text-decoration-line: none;'>超级链接</a>在本质上属于一个<a target='_blank' style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>的一部分，它是一种允许我们同其他网页或站点之间进行连接的元素。各个网页链接在一起后，才能真正构成一个网站。所谓的超链接是指从一个网页指向一个目标的连接关系，这个目标可以是另一个<a target='_blank' style='color: rgb(19, 110, 194); text-decoration-line: none;'>网页</a>，也可以是相同网页上的不同位置，还可以是一个图片，一个电子邮件地址，一个文件，甚至是一个应用程序。而在一个网页中用来超链接的对象，可以是一段文本或者是一个图片。当浏览者单击已经链接的文字或图片后，链接目标将显示在浏览器上，并且根据目标的类型来打开或运行。</p><p style='overflow-wrap: break-word; margin-bottom: 15px; text-indent: 2em; line-height: 24px; zoom: 1;'>什么是超链接？<span class='custom-fill-slot'>{(__<span class='fill-flag'>2</span>__)}</span></p>",
+  "question_source": "",
+  "question_demand": "",
+  "warehouse_question_id": "509",
+  "question_sort": "9",
+  "file": "",
+  "options": [
+    {
+      "id": "797",
+      "is_answer": "1",
+      "option_title": "超级链接简单来讲，就是指按内容链接。",
+      "sort": "1"
+    },
+    {
+      "id": "798",
+      "is_answer": "1",
+      "option_title": "超级链接在本质上属于一个网页的一部分，它是一种允许我们同其他网页或站点之间进行连接的元素。",
+      "sort": "1"
+    },
+    {
+      "id": "799",
+      "is_answer": "1",
+      "option_title": "滴滴滴",
+      "sort": "2"
+    },
+    {
+      "id": "800",
+      "is_answer": "1",
+      "option_title": "开车啦",
+      "sort": "2"
+    }
+  ],
+  "right_options": [
+    "B"
+  ],
+  "sub_question": [],
+  "student_answer": [
+    "超级链接在本质上属于一个网页的一部分，它是一种允许我们同其他网页或站点之间进行连接的元素。"
+  ],
+  "student_is_right": "0",
+  "student_score": "0.0"
+}

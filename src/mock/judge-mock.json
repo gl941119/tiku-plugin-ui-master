@@ -1,0 +1,48 @@
+{
+   "question_sort_number": "9",
+  "group_id": "403",
+  "group_title": "撒反倒是",
+  "knowledge": "1111",
+  "group_sort": "1",
+  "id": "2795",
+  "is_all_right": "1",
+  "question_title": "<p style='margin-top:6px;line-height:140%'><span style='font-size:19px;line-height:140%;font-family:宋体;color:black'>判断：《晓出净慈寺送林子方》的作者是杨万里，当中的名句是：小荷才露尖尖角，早有蜻蜓立上头。（    ）</span></p>",
+  "topic_type": "3",
+  "analysis": "<p style='margin-top:6px;line-height:140%'><span style='font-size:19px;line-height:140%;font-family:宋体;color:red'>“小荷才露尖尖角，早有蜻蜓立上头”出自《小池》。</span></p>",
+  "hard_rank": "3",
+  "exam_paper_id": "112",
+  "question_score": "2.0",
+  "topic_body": "<p style='margin-top:6px;line-height:140%'><span style='font-size:19px;line-height:140%;font-family:宋体;color:black'>判断：《晓出净慈寺送林子方》的作者是杨万里，当中的名句是：小荷才露尖尖角，早有蜻蜓立上头。（    ）</span></p>",
+  "question_source": "",
+  "question_demand": "",
+  "warehouse_question_id": "509",
+  "question_sort": "9",
+  "file": "",
+  "options": [
+    {
+      "id": "7258",
+      "paper_question_id": "2795",
+      "option_title": "正确",
+      "is_answer": "2",
+      "label": "A"
+    },
+    {
+      "id": "7259",
+      "paper_question_id": "2795",
+      "option_title": "错误",
+      "is_answer": "1",
+      "label": "B"
+    }
+  ],
+  "right_options": [
+    "B"
+  ],
+  "sub_question": [
+
+  ],
+  "student_answer": [
+    "A"
+  ],
+  "student_is_right": "0",
+  "student_score": "0.0"
+}
